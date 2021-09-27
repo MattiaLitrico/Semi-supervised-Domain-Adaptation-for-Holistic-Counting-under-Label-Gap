@@ -1,6 +1,10 @@
 # Semi-supervised-Domain-Adaptation-for-Holistic-Counting-under-Label-Gap
 
 ![plot](main_fig.png)
+*image_caption* Source and Target datasets have two different label ranges,
+causing a label gap. Although overlaps may occur (as shown), the label gap challenge most of
+the state-of-the-art solutions for regression problems. Our proposed solution is to perform label
+normalisation, i.e. scaling source (and target) labels into [0,1].
 
 ## Abstract
 
