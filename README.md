@@ -1,5 +1,8 @@
 # Semi-supervised-Domain-Adaptation-for-Holistic-Counting-under-Label-Gap
 
+Official repository for the paper "Semi-supervised Domain Adaptation for Holistic Counting under Label Gap", Litrico M., Battiato S., Tsaftaris S., Giuffrida M.V., Journal of Imaging.
+
+
 ![plot](main_fig.png)
 *Pictorial representation of the Label Gap. Source and Target datasets have two different label ranges, causing a label gap. Although overlaps may occur (as shown), the label gap challenge most of the state-of-the-art solutions for regression problems. Our proposed solution is to perform label
 normalisation, i.e. scaling source (and target) labels into [0,1].*
